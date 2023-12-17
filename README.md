@@ -1,5 +1,5 @@
 # Netflix API using GO and GOFR
-This is simple a REST_API for managing the movies watched by you.It provides us with various endpoints to perform various operations such as retrieving all the movies or retreiving a single movie by ID.It
+This is simple a REST_API for managing the movies watched by you.It provides us with various endpoints to perform various operations such as retrieving all the movies or retreeiving a single movie by ID.It
 can also be used for updating a movie using a particular ID or deleting a movie using a particular ID . It is implemented using GO and GOFR framework ,MONGODB and can perform CRUD operations.
 
 ## Prerequisites
