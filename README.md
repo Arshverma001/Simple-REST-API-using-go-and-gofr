@@ -55,7 +55,6 @@ The base URL for all endpoints is:
   - Retrieves a list of all movies.
 
 - **Example Response:**
-- 
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/ee57ea10-0dde-47bd-81fc-c2432ccdb99b)
 
 
@@ -70,8 +69,6 @@ The base URL for all endpoints is:
   - Retrieves information about a specific movie based on the provided ID.
 
 - **Example Response:**
-  
-
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/204c23ce-bde9-4564-ae8b-3a826603a2dd)
 
 
@@ -112,7 +109,6 @@ The base URL for all endpoints is:
   - Updates information about a specific movie based on the provided ID.
     
 - **Example Response:**
-  ```json
   
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/2140545f-2097-40ee-8c89-1d0d7106434e)
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/a3f8810c-2122-40c5-96a3-a879cbdd4702)
@@ -132,7 +128,7 @@ The base URL for all endpoints is:
   - Deletes a specific movie based on the provided ID.
 
 - **Example Response:**
-  ```json
+
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/41dafdd2-2755-46ef-a37b-7f0e3a9ab180)
 ![image](https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr/assets/87807771/b15bc87f-6201-45c5-938c-4696d056a3b5)
 
