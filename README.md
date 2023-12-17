@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   https://github.com/Arshverma001/Simple-REST--API-using-go-and-gofr.git
+   https://github.com/Arshverma001/Simple-REST-API-using-go-and-gofr.git
    
    cd GOFR-Assignment
 2. Download Dependencies:
